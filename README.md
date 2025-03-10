@@ -1,2 +1,2 @@
-## C#
-## Learning Python ☝🤓
+## C#☝🤓
+## Learning Python
