@@ -1,2 +1,2 @@
-## C# Developer
+## C#
 ## Learning Python ☝🤓
